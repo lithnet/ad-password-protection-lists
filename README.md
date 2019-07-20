@@ -7,6 +7,9 @@ Choose the word lists you want to use, and import them into LPP using the [Impor
 ## Lists
 * [200,000 normalized passwords aggregated from several data breaches](https://raw.githubusercontent.com/lithnet/ad-password-protection-lists/master/banned-words/top-200000.txt)
 
+## How can I contribute to the project?
+* Make a [donation](https://lithnet.io/donate) and help us cover our costs
+
 ## Keep up to date
 * [Visit my blog](http://blog.lithnet.io)
 * [Follow me on twitter](https://twitter.com/RyanLNewington)![](http://twitter.com/favicon.ico)
