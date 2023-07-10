@@ -8,7 +8,7 @@ Choose the word lists you want to use, and import them into LPP using the [Impor
 * [200,000 normalized passwords aggregated from several data breaches](https://raw.githubusercontent.com/lithnet/ad-password-protection-lists/master/banned-words/top-200000.txt)
 
 ## Enteprise support
-Lithnet offer enterprise support plans for our open-source products. Deploy our tools with confidence that you have the backing of the dedicated Lithnet support team if you run into any issues, have questions, or need advice. Reach out to support@lithnet.io, let us know the number of users you are protecting in your environment, and we'll put together a quote.
+Lithnet offer enterprise support plans for our products. Deploy our tools with confidence that you have the backing of the dedicated Lithnet support team if you run into any issues, have questions, or need advice. Reach out to us via our [contact form](https://lithnet.io/products/password-protection#requestaquote) for a quote and more information on this offering.
 
 ## Keep up to date
 * [Visit our blog](http://blog.lithnet.io)
